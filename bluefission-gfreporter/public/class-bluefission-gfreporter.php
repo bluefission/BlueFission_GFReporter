@@ -365,7 +365,7 @@ class BlueFission_GFReporter {
 		$day = isset( $options['date'] ) ? $options['date'] : '';
 		$message = isset( $options['message'] ) ? $options['message'] : '';
 		$last = isset($options['last_run']) ? $options['last_run'] : date('Y-m-d', strtotime('last year'));
-		$last = strtotime('last year');
+		
 		$today = date('Y-m-d');
 		
 		$_POST["export_field"] = $options['fields'];

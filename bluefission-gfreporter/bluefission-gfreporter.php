@@ -14,7 +14,7 @@
  * @wordpress-plugin
  * Plugin Name:       BlueFission Gravity Forms Reporter
  * Plugin URI:        http://bluefission.com/wordpress-plugins
- * Description:       Schedule a monthly report of a given Gravity Formorm to sent via email
+ * Description:       Schedule a monthly report of a given Gravity Form sent via email
  * Version:           1.0.3
  * Author:            Devon Scott, BlueFission.com
  * Author URI:        http://bluefission.com
@@ -22,7 +22,7 @@
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Domain Path:       /languages
- * GitHub Plugin URI: https://github.com/<owner>/<repo>
+ * GitHub Plugin URI: https://github.com/bluefission/BlueFission_GFReporter
  */
 
 // If this file is called directly, abort.
